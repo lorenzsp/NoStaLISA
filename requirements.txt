@@ -1,0 +1,17 @@
+# Core scientific computing packages
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Utilities
+tqdm>=4.65.0
+
+# Jupyter notebook environment
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+ipykernel>=6.25.0
+
+# Optional: for better notebook experience
+ipywidgets>=8.0.0
